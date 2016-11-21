@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#cdeeef"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+
+    <ImageButton
+        android:layout_width="85dp"
+        android:layout_height="72dp"
+        android:layout_marginTop="12dp"
+        android:layout_marginLeft="262dp"
+        android:scaleType="fitXY"
+        android:onClick="onClickProfile"
+        android:background="#cdeeef"
+        app:srcCompat="@drawable/panda2"
+        android:id="@+id/imageButton" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_marginTop="90dp"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:layout_width="110dp"
+            android:layout_height="110dp"
+            android:scaleType="fitXY"
+            android:text="Calorie Calculator"
+            android:textSize="20sp"
+            android:layout_marginLeft="70dp"
+            android:textStyle="bold"
+            android:background="#05acaf"
+            android:textAllCaps="false"
+            android:onClick="onClickCalorie"
+            android:textColor="#ffffff" />
+
+        <ImageButton
+            android:layout_width="113dp"
+            android:layout_height="110dp"
+            android:scaleType="fitXY"
+            android:background="#c3c3c3"
+            android:layout_marginLeft="12dp"
+            app:srcCompat="@drawable/panda5"
+            android:id="@+id/imageButton2"
+            android:onClick="onClickProfile"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp">
+
+        <ImageButton
+            android:layout_width="113dp"
+            android:layout_height="110dp"
+            android:scaleType="fitXY"
+            android:background="#c3c3c3"
+            android:layout_marginLeft="70dp"
+            app:srcCompat="@drawable/panda5"
+            android:id="@+id/imageButton3" />
+
+        <Button
+            android:layout_width="110dp"
+            android:layout_height="110dp"
+            android:text="Healthy Recipe"
+            android:textAllCaps="false"
+            android:textSize="20sp"
+            android:layout_marginLeft="12dp"
+            android:textStyle="bold"
+            android:background="#05acaf"
+            android:textColor="#ffffff"
+            android:onClick="onClickRecipe"
+            android:id="@+id/calorieCalender" />
+
+    </LinearLayout>
+</LinearLayout>

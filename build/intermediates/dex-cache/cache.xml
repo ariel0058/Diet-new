@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e35002351f2d415093a9b564652d4b56be6a0593">
+        <dex dex="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-9.4.0_37ea351fcc0c58516324cf7b7c3fb88bb4d02d05\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c8f5d56f8f8a287c95e02c542baade138a378048">
+        <dex dex="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.4.0_b6ffc21db908f853d85de01146927e5bb86289b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_04a04c0fee71fa30d5c5f20b9bf410a916d85aad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
+        <dex dex="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.4.0_3e7b9f7947b6ef0156647b5dd272d6729f185e4b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e5e8e535d15834e824817bdf5370556f62b4b2a5">
+        <dex dex="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.4.0_1ffccfcec44cda509200ed18959f2fa20461d75e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ece40b09e9d4d488bc270cf6af5a9af73bc1cfa3">
+        <dex dex="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.4.0_f3b3fe8200c2bd001d3d9f11d6542cbd7eded395\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e454c414a069241ee08444d187f2dd3a702596b5">
+        <dex dex="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.4.0_c485f0d0ae6229d77db7f2a7da356e817c5ef64e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-23.0.0_0066455be4d4d2ee7606243bf2bf9ca3898f2f38\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_949243e65f3d54e6c999a763ad8c43512b4ef3e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_31f5451a4e874be1186c8ab4d8df9ed8b1261cd1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e6e2251f3d3abf4eecd6bf6919d41fc7af497852">
+        <dex dex="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.4.0_6608016d31dc0f6c0cb671ed0f3034480b6df81f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.4.0_39989c5a73a66dc90d3e547fedcde60899929183\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.4.0_9fd32b89bf307da863f3109b2c79cf1ea7047fe4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7ea53c4458b80e8ea71f7fd6831fa184c501377b">
+        <dex dex="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.4.0_15d285e7ee8f5eda9a27e4eb8b482415ec0df2f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.4.0_f984b70290898adea865a00612871d724e8d3650\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.4.0_a03d3a3fb0fbfae414e89a8362fd0156957dc101\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_9f479534d74e36420b5cecf70c0067547f41e889\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="0263ded7e368f3b8e90b087f70967fa868eff49a">
+        <dex dex="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d3ecff91ff4c2fbbbf4d4eb144018123dd7579c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
+        <dex dex="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.4.0_06c96c3aa5ff4b2fb93a583992559ba29c0437dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ba47b210d36301e237ccfea860eaada04590f12a">
+        <dex dex="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.4.0_d61337611260b21d626ad5c1a7ced115be80f29f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b9d48baf96c7e187991a9befa833bebd181960a9">
+        <dex dex="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.4.0_6f2f9c3af79edbd23538a21f60587ae4ba18c542\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="98e97da89d4df8e2f6eba63498d3d46a587372f2">
+        <dex dex="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.4.0_6f0bdfc713004cb47c8a0091a7f8fbff2820cf5e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="dd763e0269f2854f5828ae62dd968b80bff6a0db">
+        <dex dex="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-9.4.0_ba9fdd7d191a484de2062c4a1d8eaff074674c07\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="58c9f5ee817fdb8b658fd7455fadfb74119f7ee9">
+        <dex dex="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.4.0_0ff1f463ef42a2d02327ceaf7bbe88b04c65ee67\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
+        <dex dex="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.4.0_573c9b23b7d307777fa713f7689fcb0e47d908a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b15f898c9047f9d612a63000126b485dd024eaac">
+        <dex dex="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-9.4.0_1334e4a18cb8bf6c86925515a68ea532c4802220\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YYao\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_6d1e1946e1f0d6dd4ddd170b379204c42c9a25b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.4.0_af0e2183fbc846ff9c0a18e8c20346cf67ce9e39\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="954697ee6ea7bdd596babf4f70e8b7a17ca7649e">
+        <dex dex="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.4.0_13ff62e3d915b02859a41910dfa88eafa3a80b68\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a432629397351d3ec7f27a23d258b229b81af08f">
+        <dex dex="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.4.0_5ad2d9f3da1b369c1f5e86f82baec232084661bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ff2d44b379c29bcff1e77a6d779e5701220fc3c1">
+        <dex dex="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_358e65bdc37186e5de3c204a20dffb5218eac1fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.4.0_31006ab338a66418c0d4af690fb8f055d284488b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="dd51b31890731591729f046d7a09c4fe4e483ed1">
+        <dex dex="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.4.0_c48ed9777ac793a56426c310bfd6b4c91538ac25\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4348dd26d83b56c2058b768222c3271bce911724">
+        <dex dex="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.4.0_48ab1fcfd1a14dab442954f761994a6924058f04\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8ce5e7a4a146dddd1d9e66b09c714a6c149916d8">
+        <dex dex="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.4.0_8e27a2948db00aecbe6d366ddfef2020663dd422\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
+        <dex dex="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.4.0_1a35a4e42ce0cdf3749622954d31e1097b0056e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8197651ce1af4d89b47f4545cc720bc4f8611e7d">
+        <dex dex="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.4.0_adc6a01032ed07d8595d8b5b052e7954cb3da27b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="59a16a4a42d25b2c243dd1e8aea87d06895b4a06">
+        <dex dex="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.4.0_50e83605c4bf02d51a4af2ac6cfc0e44047e9f61\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="03829a2618892d438a1f59c6286699ca1f476e93">
+        <dex dex="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-9.4.0_69c171b769376bdebb4c9d58e5f5d78df31eb970\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.4.0_effcd6b6a8d4a607272eca7e0d25f1504499fb6b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d463d8eec1e6c1feef2cec6675ccb47e37c12ee1">
+        <dex dex="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.4.0_e15000945fe6d2fefffe734a5899f4003d4bd6d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7bc6ea2bcfd6de4b7085e0f3a01616c5c8e0e2ad">
+        <dex dex="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.4.0_cfa9b1d642a22530cae0f877ebf8eaebd01c6008\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.4.0_f485eb566289fe9b2f0ad2b27e8df3def42d1c46\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_5932a8754873bad744551981a5ea14eafea64121\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="147edbec6bcea71fd675ecc63cae3319637ec2b4">
+        <dex dex="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.4.0_759138d1712dd23183f9224a5a95a7bbb86d3a56\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YYao\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_52288684ad490e4f1f69a75bce4c1789d8732925\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="0b060160e7daee343f5315b3da91b0ff2d7eed89">
+        <dex dex="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.4.0_201e7b4ad94f8839cc9d1e35a9fa2dfdd2c1cd02\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YYao\.gradle\caches\modules-2\files-2.1\com.parse\parse-android\1.13.0\58a7d54b6a4f28be11f0cecec93097eddf473e6f\parse-android-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\transforms\dex\debug\folders\1000\10\parse-android-1.13.0_768d10af699e259b4ebac7dd7d70078f344bae7f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="461e4257888c25ec05abcd91e758fe7f4949230a">
+        <dex dex="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.4.0_e60262741cec2df6ded54a9e6e3074da20af485c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="736d8893fb702f128a153c9d87c9c29724d37872">
+        <dex dex="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.4.0_33041d5a6d1f42351a63c2fc031cf9b49ecc5d50\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="dab6944860c986980dcc6002a5ca2f127b587317">
+        <dex dex="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.4.0_5358a60332d79a23681236dc7fb95130425c5cc8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_28664d7a209be3eff8cf38b70f66fcc7689a362e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="5e04c0b3683ca45b343284d93e5594b5f9044551">
+        <dex dex="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.4.0_52935da964dd85493dd3b124977bc4ee12bc0a0c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.4.0_6ee161ca1df65680f1f76ef844a25aa0626672ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="0ad33eb600f3d80bdff5ce355c90d5533ade652a">
+        <dex dex="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.4.0_c912dd5e53e3df5052ac1444fe0d8551a5e7a1d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\exploded-aar\com.google.android.gms\play-services-contextmanager\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="72eacac37fc64e95d53abd2a041bf81a952d8615">
+        <dex dex="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-contextmanager-9.4.0_5b91079499ea4eaf3f784bf196b669d56516f3a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c10df7344e31161852c20bb8143fc37319aa10ec">
+        <dex dex="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.4.0_d85e2495f4f1f67a09951568153ba949102742ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_0b13b0425f2b5fc13e8deace9eb88335dc035639\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d49118ba67a101c4895f0581f17142cba85b330b">
+        <dex dex="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.4.0_3518c8ee4bc411c6f6ae7e20e3678422a24ceeb6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.4.0_749d577a0d6dfa02219d5e5177268aa147ad4e87\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b1acf13f1b7d8232af78a30833f9a966d1394c84">
+        <dex dex="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.4.0_8966e0a658872accfa6853340c5768710c83b26f\classes.dex" />
+    </item>
+
+</items>

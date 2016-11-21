@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="467470629073425"
+    token="5307120861291754658"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="2076" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="1089" />
+    <task
+        name="verifier"
+        duration="132" />
+
+    <artifact
+        location="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\outputs\apk\Food-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="467470629073425"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\YYao\AndroidStudioProjects\Diet-new\Food\build\outputs\apk\Food-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

@@ -1,0 +1,7 @@
+#Sun Nov 20 21:15:12 PST 2016
+base.0=C\:\\Users\\YYao\\AndroidStudioProjects\\Diet-new\\Food\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_358e65bdc37186e5de3c204a20dffb5218eac1fc
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\YYao\\AndroidStudioProjects\\Diet-new\\Food\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_d3ecff91ff4c2fbbbf4d4eb144018123dd7579c1\\classes.dex
+base.1=C\:\\Users\\YYao\\AndroidStudioProjects\\Diet-new\\Food\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_d3ecff91ff4c2fbbbf4d4eb144018123dd7579c1
+file.0=C\:\\Users\\YYao\\AndroidStudioProjects\\Diet-new\\Food\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_358e65bdc37186e5de3c204a20dffb5218eac1fc\\classes.dex

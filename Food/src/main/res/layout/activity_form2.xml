@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+              android:id="@+id/form2_linear_layout"
+    android:background="#ffffff">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:background="#9bdedf">
+
+        <Button
+            android:text="Back"
+            android:layout_width="45dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:background="#9bdedf"
+            android:textColor="#0d6162"
+            android:id="@+id/button3"
+            android:onClick="onClickLast"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="User Information 2/3"
+            android:textSize="20sp"
+            android:textColor="#0d6162"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true"
+            android:id="@+id/textView2" />
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Weight:"
+        android:id="@+id/weight1"
+        android:layout_marginTop="150dp"
+        android:textSize="18sp"
+        android:textColor="#0d6162"
+        android:layout_gravity="center_horizontal" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal">
+
+        <EditText
+            android:layout_width="130dp"
+            android:layout_height="35dp"
+            android:layout_marginTop="6dp"
+            android:layout_marginLeft="110dp"
+            android:id="@+id/editTextWeight1"
+            android:background="#eeeeee" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="lb"
+            android:textSize="15sp"
+            android:textColor="#000000"
+            android:id="@+id/weightTv1"
+            android:layout_marginLeft="4dp"
+            android:layout_marginTop="5dp"
+            />
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Height:"
+        android:id="@+id/weight2"
+        android:layout_marginTop="30dp"
+        android:textSize="18sp"
+        android:textColor="#0d6162"
+        android:layout_gravity="center_horizontal" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal">
+
+        <EditText
+            android:layout_width="130dp"
+            android:layout_height="35dp"
+            android:layout_marginTop="6dp"
+            android:layout_marginLeft="110dp"
+            android:id="@+id/editTextHeight"
+            android:background="#eeeeee" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="cm"
+            android:textSize="15sp"
+            android:textColor="#000000"
+            android:id="@+id/weightTv2"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="4dp"
+            />
+    </LinearLayout>
+
+    <Button
+        android:layout_width="90dp"
+        android:layout_height="30.5dp"
+        android:layout_marginTop="110dp"
+        android:text="Submit"
+        android:background="#05acaf"
+        android:textColor="#ffffff"
+        android:textAllCaps="false"
+        android:id="@+id/submitButton"
+        android:layout_gravity="center_horizontal"
+        android:onClick="getWeight"/>
+
+
+
+</LinearLayout>

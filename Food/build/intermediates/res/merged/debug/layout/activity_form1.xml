@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+              android:id="@+id/form1_linear_layout"
+    android:background="#ffffff">
+
+    <TextView
+        android:text="TextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv_name" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:background="#9bdedf">
+
+        <Button
+            android:text="Back"
+            android:layout_width="45dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+
+            android:background="#9bdedf"
+            android:textColor="#0d6162"
+            android:id="@+id/button2" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="User Information 1/3"
+            android:textSize="20sp"
+            android:textColor="#0d6162"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true"
+            android:id="@+id/textView" />
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="90dp"
+        android:layout_height="wrap_content"
+        android:text="   Gender"
+        android:id="@+id/gender"
+        android:layout_marginTop="130dp"
+        android:textSize="18sp"
+        android:textColor="#0d6162"
+        android:layout_gravity="center_horizontal"  />
+
+    <RadioGroup
+        android:id="@+id/radioGroup"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="6dp"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/male"
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:background="#ffffff"
+            android:textSize="16sp"
+            android:textColor="#0d6162"
+            android:layout_marginLeft="78dp"
+            android:text="Male" />
+
+        <RadioButton
+            android:id="@+id/female"
+            android:layout_width="120dp"
+            android:background="#ffffff"
+            android:textSize="16sp"
+            android:textColor="#0d6162"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="7dp"
+            android:text="Female" />
+    </RadioGroup>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Age"
+        android:id="@+id/heightTv"
+        android:layout_marginTop="25dp"
+        android:textSize="18sp"
+        android:textColor="#0d6162"
+        android:layout_gravity="center_horizontal" />
+
+        <EditText
+            android:layout_width="120dp"
+            android:layout_height="35dp"
+            android:layout_marginTop="15dp"
+            android:id="@+id/editTextAge"
+            android:background="#eeeeee"
+            android:layout_gravity="center_horizontal"/>
+
+    <Button
+        android:layout_width="70dp"
+        android:layout_height="30.5dp"
+        android:layout_marginTop="100dp"
+        android:text="Next"
+        android:textAllCaps="false"
+        android:background="#05acaf"
+        android:textColor="#ffffff"
+        android:id="@+id/nextButton"
+        android:onClick="getAge"
+        android:layout_gravity="center_horizontal"
+        />
+
+</LinearLayout>
