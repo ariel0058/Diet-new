@@ -1,10 +1,14 @@
 [
     {
-        "merged": "/Users/PeiLei/Desktop/whatever/Diet-new/Food/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
-        "source": "/Users/PeiLei/Desktop/whatever/Diet-new/Food/src/main/res/mipmap-hdpi/ic_launcher.png"
+        "merged": "/Users/PeiLei/Desktop/git/Food/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/PeiLei/Desktop/git/Food/src/main/res/mipmap-hdpi/ic_launcher.png"
     },
     {
         "merged": "/Users/PeiLei/Desktop/whatever/Diet-new/C:\\Users\\YYao\\AndroidStudioProjects\\Diet-new\\Food\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
         "source": "/Users/PeiLei/Desktop/whatever/Diet-new/C:\\Users\\YYao\\AndroidStudioProjects\\Diet-new\\Food\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "/Users/PeiLei/Desktop/whatever/Diet-new/Food/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/PeiLei/Desktop/whatever/Diet-new/Food/src/main/res/mipmap-hdpi/ic_launcher.png"
     }
 ]

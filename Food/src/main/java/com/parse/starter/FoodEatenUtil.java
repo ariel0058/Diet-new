@@ -10,7 +10,9 @@ import com.parse.ParseUser;
 import com.parse.SaveCallback;
 
 import java.util.Calendar;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 import java.util.TimeZone;
 
 /**
@@ -20,6 +22,7 @@ import java.util.TimeZone;
 
 public class FoodEatenUtil {
 	private static String userId = ParseUser.getCurrentUser().getObjectId();
+	public  static Map<String, Map<String, Integer>> foodEaten_MealType;
 
 
 	/**
@@ -139,6 +142,50 @@ public class FoodEatenUtil {
 		});
 		//*********************************
         */
+	}
+
+
+	/**
+	 * return the meal type eaten
+	 * @param mealType
+	 * @return  mealType eaten (today)
+	 */
+	public static Map<String, Map<String, Integer>> getFoodEaten_MealType(String mealType) {
+		foodEaten_MealType = new HashMap<String, Map<String, Integer>>();
+		Calendar calendar = Calendar.getInstance(TimeZone.getDefault());
+		ParseQuery<ParseObject> foodQuery = ParseQuery.getQuery("FoodEaten");
+		foodQuery.whereEqualTo("mealType", mealType);
+		foodQuery.whereEqualTo("userId", userId);
+		foodQuery.whereEqualTo("year", calendar.get(Calendar.YEAR));
+		foodQuery.whereEqualTo("month", calendar.get(Calendar.MONTH) + 1);
+		foodQuery.whereEqualTo("day", calendar.get(Calendar.DAY_OF_MONTH));
+
+		ParseQuery<ParseObject> query = ParseQuery.getQuery("Food");
+
+
+		Map<String, Integer> foodQuantityEaten = new HashMap<String, Integer>();
+		try {
+			List<ParseObject> foodObjs = foodQuery.find();
+			for(ParseObject object : foodObjs) {
+				int quantity = (int)object.get("quantity");
+				query.whereEqualTo("objectId", object.get("foodTypeID").toString());
+				try {
+					List<ParseObject> foods = query.find();
+					for(ParseObject food : foods) {
+						foodQuantityEaten.put(food.get("name").toString(), quantity);
+					}
+
+				} catch (Exception e) {
+					e.printStackTrace();
+				}
+			}
+
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+
+		foodEaten_MealType.put(mealType, foodQuantityEaten);
+		return foodEaten_MealType;
 	}
 
 	/**

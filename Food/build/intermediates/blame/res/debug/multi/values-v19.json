@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/PeiLei/Desktop/whatever/Diet-new/C:\\Users\\YYao\\AndroidStudioProjects\\Diet-new\\Food\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v19\\values-v19.xml",
+        "outputFile": "/Users/PeiLei/Desktop/git/Food/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v19/values-v19.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 127
                 },
                 "from": {
-                    "file": "/Users/PeiLei/Desktop/whatever/Diet-new/C:\\Users\\YYao\\AndroidStudioProjects\\Diet-new\\Food\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\values-v19\\values.xml",
+                    "file": "/Users/PeiLei/Desktop/git/Food/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/values-v19/values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -36,6 +36,30 @@
                 },
                 "from": {
                     "file": "/Users/PeiLei/Desktop/whatever/Diet-new/Food/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/values-v19/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 230,
+                        "endColumn": 76,
+                        "endOffset": 302
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/PeiLei/Desktop/whatever/Diet-new/C:\\Users\\YYao\\AndroidStudioProjects\\Diet-new\\Food\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v19\\values-v19.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 76,
+                    "endOffset": 127
+                },
+                "from": {
+                    "file": "/Users/PeiLei/Desktop/whatever/Diet-new/C:\\Users\\YYao\\AndroidStudioProjects\\Diet-new\\Food\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\values-v19\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
